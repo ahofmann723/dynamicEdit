@@ -1,0 +1,6 @@
+{
+  "name": "CanvasCode",
+  "description": "Split-pane live HTML, CSS, and JavaScript editor with direct mouse manipulation, two-way code sync, and interactive preview controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
